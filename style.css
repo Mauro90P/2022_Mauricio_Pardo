@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: aqua;
+}
+
+p {
+
+    flex: 2;
+    background-color: bisque;
+}
+
+button {
+    flex: 1;
+
+}
+
+h1 {
+    background-color: blueviolet;
+    width: 100%;
+}
